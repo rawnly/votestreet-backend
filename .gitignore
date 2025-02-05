@@ -1,0 +1,5 @@
+tmp
+.DS_Store
+.envrc
+.env*
+!.env.example
